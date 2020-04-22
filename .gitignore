@@ -1,0 +1,12 @@
+*.pyc
+*.bin
+*.npz
+*.pkl
+*.csv
+data/OLLIE_cc_out_unpack/*
+data/*.npz
+data/*.csv
+data/*.bin
+data/*.pkl
+result/*.html
+*.js
